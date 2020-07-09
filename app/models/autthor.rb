@@ -1,0 +1,2 @@
+class Autthor < ApplicationRecord
+end
